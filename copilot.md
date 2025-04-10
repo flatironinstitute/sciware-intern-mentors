@@ -1,6 +1,6 @@
 # Copilot
 
-Flatiron does not currently provide GitHub Copilot through our educational institutional organization. As a Flatiron researcher, you are eligible for [GitHub education benefits](https://education.github.com/teachers) which include access to Copilot
+Flatiron does not currently provide GitHub Copilot through our educational institutional organization. As a Flatiron researcher, students are eligible for [GitHub education benefits](https://education.github.com/teachers) which include access to Copilot. Students can request these benefits with either their FI affiliation or via their student status at their home institution.
 
 * Check if you already have access: [https://github.com/settings/copilot](https://github.com/settings/copilot)
 * How to get access.
