@@ -29,6 +29,8 @@ If you get stuck, check the [uv installation instructions](https://docs.astral.s
 ## VS Code Setup
 Go to the VS Code website and choose the installer (Windows, Mac, or Linux) for your laptop: https://code.visualstudio.com/download
 
+Run the installer and follow the instructions.
+
 **WSL Users**: For users with Windows laptops who are using WSL (Windows Subsystem for Linux), make sure you download the **Windows** installer, not the Linux one.
 
 ## Start a Python project
@@ -36,14 +38,14 @@ These instructions are adapted from uv's ["Working on projects"](https://docs.as
 
 **WSL Users**: start by opening VS Code, then connect to WSL by pressing `F1` then `WSL: Connect to WSL`
 
-Open a terminal in VS Code, create a project, then open the project directory as a VS Code "workspace":
+Open a terminal in VS Code, and run the following to create a project and open the project directory as a VS Code "workspace":
 
 ```console
 uv init summer-2025
 code summer-2025
 ```
 
-To add a dependency, instead of `pip install` use `uv add`:
+Now open a VS Code terminal and try adding a dependency. Instead of `pip install` use `uv add`:
 ```console
 uv add numpy
 ```
@@ -51,7 +53,6 @@ uv add numpy
 Check the `pyproject.toml` file, and you'll see uv has added NumPy as a dependency!
 
 Make a new file (e.g. `science.py`) and start writing code that uses your new dependency. To run the script, use:
-
 ```console
 uv run science.py
 ```
