@@ -1,20 +1,26 @@
 # Laptop Setup (Python, VS Code, and Notebooks)
 
 Sciware recommends [uv](https://docs.astral.sh/uv/) Python. For notebooks, we recommend and Jupyter notebooks in VS Code.
+For Windows users, we recommend Windows Subsystem for Linux (WSL).
 Here's how to set these up on your laptop.
 
 > [!TIP]
 > uv has fantastic [documentation](https://docs.astral.sh/uv), and a [dedicated guide](https://docs.astral.sh/uv/guides/integration/jupyter/)
 > for using it with Jupyter notebooks. Check the documentation if you run into a problem!
 
-## Python Setup
-First, let's set up Python using uv.
+## Windows Users: Install WSL
+If you have a Windows laptop, start by installing the Window Subsystem for Linux (WSL). This will give you a fully-fledged
+Linux terminal to use, and it integrates nicely with VS Code.  Microsoft has great [installation instructions](https://learn.microsoft.com/en-us/windows/wsl/install),
+which these days usually boils down to a single command: `wsl --install`. If you get stuck, reach out to the #code-help channel on Slack.
 
-If you haven't installed uv before, open a terminal, and run the following command to download and install uv:
+## Python Setup
+Let's set up Python using uv. If you haven't installed uv before, open a terminal, and run the following command to download and install uv:
 
 ```console
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
+
+**WSL Users**: run that command in a WSL terminal (Start Menu -> WSL)
 
 Restart your shell, then run `uv --version`. If you see a version number, you're all set!
 
