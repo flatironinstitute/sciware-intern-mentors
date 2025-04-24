@@ -1,4 +1,4 @@
-# sciware-intern-mentors
+# Mentor Resources from Sciware
 Guidance from sciware for summer intern mentors at Flatiron
 
 Contents:
