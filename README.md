@@ -10,9 +10,10 @@ Guidance from Sciware for summer intern mentors at Flatiron
 - [Setup Co-Pilot](copilot.md)
 - [Examples of efficient workflows](efficient-workflows.md)
 - Other advice
+  - Encourage interns to use dedicated intern #code-help Slack channel for crowdsourcing challenges and error messages
 
 ## Sciware Resources
-- [#sciware](https://simonsfoundation.slack.com/archives/CDU1EE9V5) Slack channel - for questions and discussion
+- [#sciware](https://simonsfoundation.slack.com/archives/CDU1EE9V5) FI-wide Slack channel - for questions and discussion
 - [Sciware calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmQ4OTVlNjM3MzgzZmZhODM3YTRjNmUzMDQyYjA1OWNhYTAyOGE3M2M5YjdmZDk3ZWFjMTIyMmU5YzM2YzE0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) - future event details
 - [Sciware website](https://sciware.flatironinstitute.org/) - videos and materials from past events, future event listings
 
