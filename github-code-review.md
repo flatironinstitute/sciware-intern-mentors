@@ -28,7 +28,7 @@ One workflow that makes it easier to get the benefits of code review looks like 
 
 * *Desired future changes* (like bug reports, areas for improvement, or new feature requests)
 are tracked as part of an overall to-do list of future work on the project, known as a
-*backlog*. Github has [integrated issue tracking tools](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+*backlog*. GitHub has [integrated issue tracking tools](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 that can help you get a complete picture of desired changes, organize them by priority,
 keep records of the design decisions for how to implement them, and note who will be working
 on the implementation.
@@ -44,11 +44,11 @@ multiple changes need to be applied to the main version at overlapping times.
 and also makes it easier to discuss with collaborators, since everyone can see the work in progress.
 * When the change developer believes their changes are complete, they open a pull request and ask their
 colleagues to review the changes.
-* Colleagues review the changes using Github tools, and have the opportunity to ask questions and make
+* Colleagues review the changes using GitHub tools, and have the opportunity to ask questions and make
 suggestions for further improvement. This can include discussions of specific lines of code.
 * When enough reviewers agree that the changes solve the issue in an agreed-upon way, a reviewer will
 accept the changes into the main branch and they will become official. This can be done by either
-a `git merge` on command line, or through the Github interface.
+a `git merge` on command line, or through the GitHub interface.
 
 ### Dealing with branch conflicts
 
@@ -145,11 +145,11 @@ been done at a significant investment of time.
 
 
 
-## Github Code Review Features
+## GitHub Code Review Features
 
-Github offers a dedicated workspace with many features to facilitate effective code review conversations.
+GitHub offers a dedicated workspace with many features to facilitate effective code review conversations.
 
-Open pull requests to a project will be visible from the "Pull Requests" area of the Github project page:
+Open pull requests to a project will be visible from the "Pull Requests" area of the GitHub project page:
 
 ![image](assets/prs-tab-location.png)
 
@@ -165,7 +165,7 @@ on the request.
 
 Clicking on any open PR brings up its conversation page. This page provides a summary of several
 important bits of information. The contributor gave the PR a short but descriptive name, which is
-shown at the top, next to the PR number. (Github assigns every pull request and issue a unique
+shown at the top, next to the PR number. (GitHub assigns every pull request and issue a unique
 number--the same pool is used for both, to avoid confusion between issue 15 vs pull request 15.)
 
 Below this headline, you can see that the PR is listed as open (green oval badge on the left).
@@ -188,7 +188,7 @@ Clicking on any of the commits will bring up a separate view showing the changes
 commit.
 
 At the bottom of the conversation page (not shown) there are buttons to merge the pull request, or
-close it unmerged. If there are conflicts, Github provides tools to resolve them via the web, or
+close it unmerged. If there are conflicts, GitHub provides tools to resolve them via the web, or
 by pushing additional commits to the PR branch.
 
 Clicking the "files changed" tab (circled in red) brings the reviewer to perhaps the most

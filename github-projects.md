@@ -1,6 +1,6 @@
-# Github Projects
+# GitHub Projects
 
-A possible tool for managing projects in a centralized location is [Github Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)
+A possible tool for managing projects in a centralized location is [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)
 
 ## Creating a project
 
@@ -12,7 +12,7 @@ A possible tool for managing projects in a centralized location is [Github Proje
 ## Adding content
 
 You can start tracking progress by adding items to the project.
-These are linked to github issues or PRs that are associated to specific repositories that contain the data for the student's project.
+These are linked to GitHub issues or PRs that are associated to specific repositories that contain the data for the student's project.
 To add them to the project, you can either:
 - link existing issues or PRs
 - create new ones directly in the project view
