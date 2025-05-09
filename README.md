@@ -7,7 +7,7 @@ Guidance from Sciware for summer intern mentors at Flatiron
 - [Using GitHub for code review](github-code-review.md)
 - [Project Management with GitHub Project Boards](github-projects.md)
 - [Jupyter notebooks](jupyter-notebooks.md)
-- [Setup Co-Pilot](copilot.md)
+- [Setup Copilot](copilot.md)
 - [Examples of efficient workflows](efficient-workflows.md)
 - Other advice
   - Encourage interns to use dedicated intern #code-help Slack channel for crowdsourcing challenges and error messages
