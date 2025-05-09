@@ -22,4 +22,3 @@ Guidance from Sciware for summer intern mentors at Flatiron
 - **Thursday June 12, 10-12:30** - Tools for better coding 
 - **Tuesday June 24, 10-12:30** - Intro to the cluster
 - **Wednesday July 2, 10-12:30** - Cluster choose your own adventure
-

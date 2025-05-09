@@ -45,7 +45,7 @@ and also makes it easier to discuss with collaborators, since everyone can see t
 * When the change developer believes their changes are complete, they open a pull request and ask their
 colleagues to review the changes.
 * Colleagues review the changes using Github tools, and have the opportunity to ask questions and make
-suggestions for further improvement. This can include dicussions of specific lines of code.
+suggestions for further improvement. This can include discussions of specific lines of code.
 * When enough reviewers agree that the changes solve the issue in an agreed-upon way, a reviewer will
 accept the changes into the main branch and they will become official. This can be done by either
 a `git merge` on command line, or through the Github interface.

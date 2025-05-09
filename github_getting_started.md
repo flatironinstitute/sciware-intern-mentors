@@ -9,4 +9,4 @@ These steps are all described in the GitHub documentation: [Set up Git](https://
 - [Setting your commit email address](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address). 
   - This should be the email address associated with the student's GitHub account.
 - [Setup SSH keys with GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-  - These keys are hardware specefic and need to be setup on every machine the student may use.
+  - These keys are hardware specific and need to be setup on every machine the student may use.
