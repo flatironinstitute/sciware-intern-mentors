@@ -11,7 +11,7 @@ Here's how to set these up on your laptop.
 ## Windows Users: Install WSL
 If you have a Windows laptop, start by installing the Window Subsystem for Linux (WSL). This will give you a fully-fledged
 Linux terminal to use, and it integrates nicely with VS Code.  Microsoft has great [installation instructions](https://learn.microsoft.com/en-us/windows/wsl/install),
-which these days usually boils down to a single command: `wsl --install`. If you get stuck, reach out to the #code-help channel on Slack.
+which these days usually boils down to a single command: `wsl --install`. If you get stuck, reach out to the [#code-help](https://simonsfoundation.enterprise.slack.com/archives/C08SZK2C0TB) channel on Slack.
 
 ## Python Setup
 Let's set up Python using uv. If you haven't installed uv before, open a terminal, and run the following command to download and install uv:
