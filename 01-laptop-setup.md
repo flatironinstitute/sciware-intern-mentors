@@ -1,6 +1,6 @@
 # Laptop Setup (Python, VS Code, and Notebooks)
 
-Sciware recommends [uv](https://docs.astral.sh/uv/) Python. For notebooks, we recommend and Jupyter notebooks in VS Code.
+Sciware recommends [uv](https://docs.astral.sh/uv/) Python. For notebooks, we recommend Jupyter notebooks in VS Code.
 For Windows users, we recommend Windows Subsystem for Linux (WSL).
 Here's how to set these up on your laptop.
 
