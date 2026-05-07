@@ -21,7 +21,7 @@ provide structure, not to add additional requirements to the program. The object
 desired outcomes detailed below are intended to be optional and aspirational for the interns, 
 and not required.
 
-By the end of the summer, we hope that every intern can:
+By the end of the summer, we hope that every intern can: 
 
 1. Name the tool(s) used to edit code (aka IDE). <br>
    Examples: VS Code, vim, emacs
@@ -38,6 +38,8 @@ By the end of the summer, we hope that every intern can:
 6. If the cluster was used, measure how many CPU and GPU hours were used.
 
 7. Create a GitHub repository containing new material developed.
+
+In addition, every intern’s posters will have a small box dedicated to reporting on these objectives. 
 
 ## Sciware Resources
 - [#sciware](https://simonsfoundation.slack.com/archives/CDU1EE9V5) FI-wide Slack channel - for questions and discussion
