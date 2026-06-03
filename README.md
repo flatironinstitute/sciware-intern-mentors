@@ -48,9 +48,10 @@ In addition, every intern’s posters will have a small box dedicated to reporti
 
 ## Summer 2026 Schedule
 Please consult the [Sciware calendar](https://calendar.google.com/calendar/u/0?cid=Y18zZmQ4OTVlNjM3MzgzZmZhODM3YTRjNmUzMDQyYjA1OWNhYTAyOGE3M2M5YjdmZDk3ZWFjMTIyMmU5YzM2YzE0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)  for the locations.
-- **Wednesday June 10, 10a-12p** - Tools for better coding and Overview of Resources
-- **Wednesday June 17, 10a-12p** -  Intro to the cluster
-- **Wednesday July 1, 10a-12p** - Environment and package management
-- **Wednesday July 8, 10a-12p** - Collaborative coding with Github
+- **Wednesday June 10, 10a-12p** - Introduction to Scientific Computing at Flatiron
+- **Wednesday June 17, 10a-12p** -  Hands-on Computing with the Cluster
+- **Wednesday July 1, 10a-12p** - Making Your Software Project “Just Work”: Environment and package management with uv and pixi, the next gen pip and conda replacements
+- **Wednesday July 8, 10a-12p** - Developing Software Collaboratively with git and GitHub
+
 - **Wednesday July 22, 2-4pm** - Open office hour and poster help
   
